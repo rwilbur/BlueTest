@@ -1,6 +1,6 @@
 import bluetooth
 
-serverMAC = "74:40:BB:47:5B:A8"
+serverMAC = "B8:27:EB:E6:3B:B6"
 port = 3
 backlog = 1
 size = 1024
